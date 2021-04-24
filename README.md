@@ -1,4 +1,5 @@
 # XMRChainer
+![](pepe.png)
 
 One click XMR miner for windows. It is very annoying for the antivirus prompt when using Xmrig in windows. In addition to the windows default protection or defender, contributing to decentralized network with normal miners is almost impossible on machines that are "useless" with stupid settings e.g., the one in the office with anit-virus and no admin right.
 
