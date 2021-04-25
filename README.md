@@ -34,7 +34,7 @@ To simplify things or setup, just
 * No false positive for Windows protection / defender 
 
 
-### [Download](https://github.com/xmrOneClick/XMRChainer/releases/download/release/xmrChainer_rc12.zip) / [Release](https://github.com/xmrOneClick/XMRChainer/releases/tag/release)
+### [Download](https://github.com/xmrOneClick/XMRChainer/releases/download/v1.0.3.2/xmrChainer_rc13.zip) / [Release](https://github.com/xmrOneClick/XMRChainer/releases/tag/v1.0.3.2)
 
 * Private use
 
